@@ -1,2 +1,2 @@
 
-# Responsive _Landing _Page which has interactive nagivation menu
+# Responsive _Landing _Page 

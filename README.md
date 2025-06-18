@@ -1,2 +1,2 @@
-
-# Responsive _Landing _Page 
+# Responsive Landing Page 
+# Prodigy Internship Task 1
